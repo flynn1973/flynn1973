@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flynn1973
 - 👀 I’m interested in Programing (C, Python, Go), UNIX Systems, Orchestration and Visualization (Cfengine, Ansible, Grafana, ELK). Beside this, i like Vintage HIFI, Analog Studio Gear and Music / Audio related Stuff.
-- 🌱 I’m currently learning how to long term procrastinate.
+- 🌱 I’m currently learning how become the king of procrastination.
 - 💞️ I’m looking to collaborate on beer drink -> hell raise.
 - 📫 How to reach me: smoke signal only
 
